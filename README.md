@@ -1,7 +1,7 @@
 # Cliché pour macOS
 
 Cliché capture l'écran, annote et enregistre : zone, fenêtre ou plein écran, vignettes flottantes qui restent à l'écran,
-texte copié par reconnaissance (OCR), éditeur d'image, capture en défilement et enregistrement vidéo. Tout se passe sur
+texte copié par reconnaissance (OCR), éditeur d'image, capture en défilement, enregistrement vidéo et retouche vidéo (coins arrondis, cadre, taille, MP4, MOV ou GIF). Tout se passe sur
 le Mac : aucun compte, aucune télémétrie.
 
 **Version de départ, nom provisoire.** C'est une première version (0.1.0) : elle fait ce qui est écrit dans les notes de
